@@ -1,4 +1,4 @@
 1、gitbash和github代码托管使用教程：https://my.oschina.net/bxxfighting/blog/378196
-2、。。。。。。。。。。
+2、使用Git初始化已有的项目:https://blog.csdn.net/Free_Wind22/article/details/81628721
 3、。。。。。。。。。。。。。
 4、。。。。。。。。。。。
